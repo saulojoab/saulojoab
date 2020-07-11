@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="http://twitter.com/saulojoab">
-        <img alt="Me segue no Twitter" src="https://img.shields.io/twitter/follow/saulojoab?label=Seguir%20%40saulojoab&style=social">
+        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/saulojoab/" />
     </a><br>
     <a href="http://instagram.com/saulojoab">
         <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/saulojoab/" />
