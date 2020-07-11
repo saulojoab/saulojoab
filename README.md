@@ -22,5 +22,6 @@
     </a>
 </p>
 <p align="center">
-  <i>Always open for new oportunities :)</i>
+    <i>Always open for new oportunities :)</i><br>
+    <a href="https://saulojoab.com" >saulojoab.com</a>
 </p>
