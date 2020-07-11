@@ -8,17 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="http://saulojoab.com" align="center">💻 Website</a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/saulojoab" align="center">💼 Linkedin</a>
-</p>
-<p align="center">
-  <a href="https://twitter.com/saulojoab" align="center">🐦 Twitter</a>
+    <a href="http://twitter.com/saulojoab">
+        <img alt="Me segue no Twitter" src="https://img.shields.io/twitter/follow/saulojoab?label=Seguir%20%40saulojoab&style=social">
+    </a><br>
+    <a href="http://instagram.com/saulojoab">
+        <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/saulojoab/" />
+    </a>
+    <a href="http://www.linkedin.com/in/saulojoab">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulojoab/" />
+    </a><br>
+    <a href="mailto:alo@saulojoab.com">
+        <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=alo@saulojoab.com" />
+    </a>
 </p>
 <p align="center">
   <i>Always open for new oportunities :)</i>
-</p>
-<p align="center">
-  <b>Btw,</b> you can also e-mail me at alo@saulojoab.com
 </p>
