@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulojoab/" />
     </a><br>
     <a href="mailto:alo@saulojoab.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Email&logoColor=white&link=alo@saulojoab.com" />
+        <img src="https://img.shields.io/badge/-alo@saulojoab.com-red?style=flat-square&logo=alo@saulojoab.com&logoColor=white&link=alo@saulojoab.com" />
     </a>
 </p>
 <p align="center">
