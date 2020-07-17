@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-    <a href="http://twitter.com/saulojoab">
+    <a href="http://twitter.com/saulojoab" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/saulojoab/" />
     </a><br>
-    <a href="http://instagram.com/saulojoab">
+    <a href="http://instagram.com/saulojoab" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/saulojoab/" />
     </a>
-    <a href="http://www.linkedin.com/in/saulojoab">
+    <a href="http://www.linkedin.com/in/saulojoab" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulojoab/" />
     </a><br>
     <a href="mailto:alo@saulojoab.com">
@@ -23,5 +23,5 @@
 </p>
 <p align="center">
     <i>Always open for new oportunities :)</i><br>
-    <a href="https://saulojoab.com" >saulojoab.com</a>
+    <a href="https://saulojoab.com" target="_blank">saulojoab.com</a>
 </p>
