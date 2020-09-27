@@ -1,6 +1,6 @@
 <h1 align="center">hey hey hey</h1>
 <p align="center">
-    <img src="https://thumbs.gfycat.com/MilkyFarawayBaleenwhale-size_restricted.gif"/>
+    <img src="https://img.saulojoab.com/me/banner.png"/>
 </p>
 <h3 align="center">🇧🇷 I'm a developer from Brazil 🇧🇷</h3>
 <p align="center">
