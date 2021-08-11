@@ -22,5 +22,4 @@
 </p>
 <p align="center">
     <i>Always open for new oportunities :)</i><br>
-    <a href="https://saulojoab.com" target="_blank">saulojoab.com</a>
 </p>
