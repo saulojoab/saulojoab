@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://img.saulojoab.com/me/banner.png"/>
-</p>
 <h3 align="center">🇧🇷 I'm a developer from Brazil 🇧🇷</h3>
 <p align="center">
   <i>Music, movies, games and code are my fuel.</i>
