@@ -19,5 +19,5 @@
 </p>
 <p align="center">
     <i>Always open for new oportunities :)</i><br>
-  ![](https://komarev.com/ghpvc/?username=saulojoab&color=gray)
+    <img src="https://komarev.com/ghpvc/?username=saulojoab&color=gray" />
 </p>
