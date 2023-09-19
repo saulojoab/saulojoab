@@ -18,7 +18,7 @@
 <p align="center">
     <i>Contact me:</i><br><br>
     <a href="http://twitter.com/saulojoab" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/saulojoab/" />
+        <img src="https://img.shields.io/badge/-X/Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://www.twitter.com/saulojoab/" />
     </a>
     <a href="http://instagram.com/saulojoab" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/saulojoab/" />
@@ -27,6 +27,6 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulojoab/" />
     </a>
     <a href="mailto:me@hellosaulo.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=me@hellosaulo.com&logoColor=white&link=alo@saulojoab.com" />
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=me@hellosaulo.com" />
     </a>
 </p>
