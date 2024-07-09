@@ -26,7 +26,7 @@
     <a href="http://www.linkedin.com/in/saulojoab" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulojoab/" />
     </a>
-    <a href="mailto:me@hellosaulo.com">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=me@hellosaulo.com" />
+    <a href="mailto:hello@saulojoab.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=hello@saulojoab.com" />
     </a>
 </p>
