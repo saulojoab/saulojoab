@@ -2,12 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=900&size=26&pause=19000&color=F7F7F7&center=true&vCenter=true&width=435&lines=My+name+is+Saulo+Joab." alt="My name is Saulo Joab." />
 </p>
 <p align="center">
-  <i>Music, movies, games and code are my fuel.</i><br>
-    <b>Always open for new oportunities :)</b>
+  <samp><i>Music, movies, games and code are my fuel.</i></samp><br>
+    <samp><b>Always open for new oportunities :)</b></samp>
   
-</p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=saulojoab&color=gray" />
 </p>
 
 <div align="center">  
@@ -16,7 +13,7 @@
 </div><br>
 
 <p align="center">
-    <i>Contact me:</i><br><br>
+    <samp><i>Contact me:</i></samp><br><br>
     <a href="http://twitter.com/saulojoab" target="_blank">
         <img src="https://img.shields.io/badge/-X/Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://www.twitter.com/saulojoab/" />
     </a>
