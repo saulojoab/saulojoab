@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=900&size=26&pause=19000&color=F7F7F7&center=true&vCenter=true&width=435&lines=My+name+is+Saulo+Joab." alt="My name is Saulo Joab." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=F7F7F7&center=true&width=435&lines=My+name+is+Saulo+Joab." alt="My name is Saulo Joab." />
 </p>
 <p align="center">
   <samp><i>Music, movies, games and code are my fuel.</i></samp><br>
